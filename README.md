@@ -1,3 +1,6 @@
+# 声明
+    我爱中国共产党，我爱中华人民共和国，仅用于学习工作
+
 # 制作docker镜像
     docker build -t shadowssocks_env .
 
