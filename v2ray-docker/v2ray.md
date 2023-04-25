@@ -3,7 +3,7 @@
 
 # 运行docker
     宿主机端口8388放开
-    docker run -p 8388:7980 -name v2ray --privileged=true -d v2ray_env
+    docker run -p 8388:7980 --name v2ray --privileged=true -d v2ray_env
 
 # 查看镜像是否正常运行成功
     docker ps -a
